@@ -1,1 +1,2 @@
-# bubble-sort
+# Bubble Sort
+The bubble_sort method takes an array of numbers and returns a sorted array. It uses a for loop to iterate the array, in the first cycle in particular it checks what element is bigger than the others, and it puts that element at the start of the new array. Then the array gets iterated again and again without counting the elements that are counted in the precedent loops, until it gets to the last item. 
